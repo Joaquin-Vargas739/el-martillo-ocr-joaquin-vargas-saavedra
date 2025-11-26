@@ -1,0 +1,2 @@
+# el-martillo-ocr-joaquin-vargas-saavedra
+This repository has the objetive to digitalize and analyze one single scanned page from the historical newspaper El Martillo using Claude API (vision/OCR) transforming it into structured data and producing a short exploratory insight.
